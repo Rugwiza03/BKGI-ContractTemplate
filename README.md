@@ -5,8 +5,10 @@ The provided document is a motor insurance policy quotation from BK Insurance. I
 # premiums. The policy covers a MOTO Tractor and includes specific information about the start and expiry dates, the total premium, and the various components of the premium.
 # Data Structure: The component expects a data object containing all necessary details for the quotation.
 # Sections: The component is divided into sections:
-General Information
-Customer Information
-Premium Details
-Premium Breakdown: Iterates through the coverages array to display each type of coverage.
+/General Information
+/Customer Information
+/Premium Details
+# Premium Breakdown: Iterates through the coverages array to display each type of coverage.
+
+
 This React component provides a structured and readable format for displaying motor insurance policy quotations.
