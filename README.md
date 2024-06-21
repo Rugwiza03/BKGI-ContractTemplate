@@ -5,7 +5,7 @@
  It contains key details such as customer information, policy coverage, and the breakdown of 
  premiums. The policy covers a MOTO Tractor and includes specific information about the start and expiry dates, the total premium, and the various components of the premium.
  
-# Data Structure: The component expects a data object containing all necessary details for the quotation.
+# Data Structure:  The component expects a data object containing all necessary details for the quotation.
 # Sections: The component is divided into sections:
 # /General Information
 # /Customer Information
