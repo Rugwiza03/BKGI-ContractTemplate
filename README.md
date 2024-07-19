@@ -8,7 +8,7 @@
 # Data Structure:  The component expects a data object containing all necessary details for the quotation.
 # Sections: The component is divided into sections:
 # /General Information
-# /Customer Information
+# /Customer  Information
 # /Premium Details
 # Premium Breakdown: Iterates through the coverages array to display each type of coverage.
 
