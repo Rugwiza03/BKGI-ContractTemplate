@@ -5,7 +5,7 @@ The provided document is a motor insurance policy quotation from BK Insurance. I
 # Data Structure
 The component expects a data object containing all necessary details for the quotation.
 
-Sections
+# Sections
 The component is divided into sections:
 
 General Information
