@@ -10,8 +10,8 @@
 
 # General Information
 # Customer Information
-### Premium Details
+# Premium Details
 # Premium Breakdown
-### Iterates through the coverages array to display each type of coverage.
+# Iterates through the coverages array to display each type of coverage.
 
 # This React component provides a structured and readable format for displaying motor insurance policy quotations.
