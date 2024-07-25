@@ -10,7 +10,7 @@
 
 # General  Information
 # Customer Information
-# Premium Details
+# Premium  Details
 # Premium Breakdown
 # Iterates through the coverages array to display each type of coverage.
 
