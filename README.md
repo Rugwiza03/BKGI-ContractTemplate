@@ -8,7 +8,7 @@
 # Sections
 # The component is divided into sections:
 
-# General Information
+# General  Information
 # Customer Information
 # Premium Details
 # Premium Breakdown
